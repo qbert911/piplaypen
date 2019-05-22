@@ -19,10 +19,10 @@ ledshim.set_clear_on_exit(value=True)
 ledshim.set_gamma(gamma_table)?
 ledshim.setup()???
 ledshim.get_shape()
-Matrix.height
-Matrix.width
-
-
+```
+~~Matrix.height~~
+~~Matrix.width~~
+```
 touchphat.all_off()[source]
 touchphat.all_on()[source]
 touchphat.led_off(pad)[source]
