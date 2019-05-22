@@ -21,6 +21,7 @@ ledshim.setup()???
 ledshim.get_shape()
 ```
 ~~Matrix.height~~
+
 ~~Matrix.width~~
 ```
 touchphat.all_off()[source]
