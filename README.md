@@ -8,7 +8,9 @@ unicornhathd.get_rotation()[source]
 unicornhathd.brightness(b)[source]
 unicornhathd.set_pixel(x, y, r, g, b)[source]
 unicornhathd.set_pixel_hsv(x, y, h, s=1.0, v=1.0)[source]
-```---```
+```
+---
+```
 ledshim.clear()
 ledshim.show()
 ledshim.set_pixel(x, r, g, b, brightness=1.0)
