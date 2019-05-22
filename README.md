@@ -1,4 +1,5 @@
 # piplaypen
+## Unicorn 
 ```
 unicornhathd.clear()[source]
 unicornhathd.show()[source]
@@ -9,7 +10,7 @@ unicornhathd.brightness(b)[source]
 unicornhathd.set_pixel(x, y, r, g, b)[source]
 unicornhathd.set_pixel_hsv(x, y, h, s=1.0, v=1.0)[source]
 ```
----
+## LED Shim
 ```
 ledshim.clear()
 ledshim.show()
@@ -24,7 +25,7 @@ ledshim.get_shape()
 ~~Matrix.height~~
 ~~Matrix.width~~
 ```
----
+## Touch Hat
 ```
 touchphat.all_off()[source]
 touchphat.all_on()[source]
