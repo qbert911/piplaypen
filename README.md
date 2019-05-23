@@ -1,5 +1,9 @@
 # piplaypen
+## PiGlow
+https://github.com/pimoroni/piglow
+
 ## Unicorn 
+https://github.com/pimoroni/unicorn-hat-hd
 ```python 
 unicornhathd.clear()
 unicornhathd.show()
@@ -11,6 +15,7 @@ unicornhathd.get_rotation()
 unicornhathd.off()
 ```
 ## LED Shim
+https://github.com/pimoroni/led-shim
 ```python 
 ledshim.clear()
 ledshim.show()
