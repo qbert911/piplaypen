@@ -21,9 +21,9 @@ ledshim.set_brightness(brightness)
 ledshim.set_clear_on_exit(value=True)
 ledshim.set_gamma(gamma_table)?
 ```
-`ledshim.setup()???`
-`ledshim.get_shape()`
-~~Matrix.height~~
+`ledshim.setup()???`  
+`ledshim.get_shape()`  
+~~Matrix.height~~  
 ~~Matrix.width~~
 
 ## Touch Hat
