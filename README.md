@@ -20,10 +20,10 @@ ledshim.set_all(r, g, b, brightness=1.0)
 ledshim.set_brightness(brightness)
 ledshim.set_clear_on_exit(value=True)
 ledshim.set_gamma(gamma_table)?
-`ledshim.setup()???`  
-`ledshim.get_shape()`  
-# ~~Matrix.height~~  
-# ~~Matrix.width~~
+# ledshim.setup()???  
+# ledshim.get_shape()  
+# Matrix.height 
+# Matrix.width
 ``` 
 ## Touch Hat
 ```python 
