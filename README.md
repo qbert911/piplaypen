@@ -23,8 +23,8 @@ ledshim.set_gamma(gamma_table)?
 ```
 `ledshim.setup()???`
 `ledshim.get_shape()`
-`~~Matrix.height~~`
-`~~Matrix.width~~`
+~~Matrix.height~~
+~~Matrix.width~~
 
 ## Touch Hat
 ```
