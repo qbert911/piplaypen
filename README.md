@@ -4,6 +4,7 @@ https://github.com/pimoroni/piglow
 
 ## Unicorn 
 https://github.com/pimoroni/unicorn-hat-hd
+http://docs.pimoroni.com/unicornhathd/  Function Reference
 ```python 
 unicornhathd.clear()
 unicornhathd.show()
